@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>UIASC</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 17 Oct 2026 12:02:17 +0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Pyxisbl/uiasc-releases/releases/download/v0.1.0-alpha.1/UIASC-0.1.0.dmg" length="49566459" type="application/octet-stream" sparkle:edSignature="ptMSS4oirM7gsoq+K9jpoYrw90hZfbaKHAHWeuohvT9yw7N1KeLiLuTU92K+NyDxznUysipXUUelp78cGVp9Ag=="/>
+        </item>
+    </channel>
+</rss>
