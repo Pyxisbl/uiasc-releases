@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Pyxisbl/uiasc-releases/releases/download/v0.1.0-alpha.1/UIASC-0.1.0.dmg" length="49638052" type="application/octet-stream" sparkle:edSignature="3xVuDLSvoj/42Yb1HcAsWJIPnUzMhzBNw+APxOrrdmM3CxGfo58MGht+hjiCkX4Df/38mOo0uuMrlPIlBFvUCw=="/>
+            <enclosure url="https://github.com/Pyxisbl/uiasc-releases/releases/download/v0.1.0-alpha.1/UIASC-0.1.0.dmg" length="49702703" type="application/octet-stream" sparkle:edSignature="4zZb5/uVkBlsLGLhof8muoMpHfCn9quzyIwqu2DE6FpII7DGP5FXQP6RDw0yN2/wsL+IBGLkqt5WGhKnJaKbBA=="/>
         </item>
     </channel>
 </rss>
